@@ -1,2 +1,3 @@
 # hello-world
 just for practice
+ez valami valtoztatas, mindegy mi...
